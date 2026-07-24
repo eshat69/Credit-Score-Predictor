@@ -193,8 +193,8 @@ streamlit run app.py
 ### 🌐 Live Application
 
 Access the deployed application here:
+https://credit-score-predictor-eshat.streamlit.app/
 
-**https://credit-score-predictor-eshat.streamlit.app/**
 ---
 
 ## 📷 Sample Output
