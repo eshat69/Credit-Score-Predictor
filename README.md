@@ -190,10 +190,10 @@ Launch the Streamlit app locally:
 streamlit run app.py
 ```
 
-The application will open in your browser at: https://credit-score-predictor-eshat.streamlit.app/
+The application will open in your browser at: 
 
 ```
-[http://localhost:8501](https://credit-score-predictor-eshat.streamlit.app/)
+ https://credit-score-predictor-eshat.streamlit.app/
 ```
 
 ---
