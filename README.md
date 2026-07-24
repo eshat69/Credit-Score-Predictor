@@ -1,4 +1,4 @@
-<img width="990" height="528" alt="feature importence" src="https://github.com/user-attachments/assets/1738388b-f818-4633-9039-64879d80c286" />
+
 https://credit-score-predictor-eshat.streamlit.app/
 
 # 💳 Credit Score Predictor
